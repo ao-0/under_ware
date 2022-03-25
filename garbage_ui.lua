@@ -92,7 +92,7 @@ function library:Window(options)
 	Cool.Position = UDim2.new(0.065, 0, 0.005, 0)
 	Cool.Size = UDim2.new(0, 55, 0, 55)
 	Cool.ZIndex = 2
-	Cool.Image = "rbxassetid://166652117"
+	Cool.Image = "rbxassetid://8615042881"
 	BloxburgCool.Name = "BloxburgCool"
 	BloxburgCool.Parent = MainUIFrame
 	BloxburgCool.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
@@ -158,7 +158,7 @@ function library:Window(options)
 	BloxburgHubTitle.Position = UDim2.new(0.075, 0, 0.1, 0)
 	BloxburgHubTitle.Size = UDim2.new(0, 372, 0, 35)
 	BloxburgHubTitle.Font = Enum.Font.GothamBold
-	BloxburgHubTitle.Text = "Under"
+	BloxburgHubTitle.Text = "Gotham"
 	BloxburgHubTitle.TextColor3 = Color3.fromRGB(84, 116, 224)
 	BloxburgHubTitle.TextSize = 15.000
 	BloxburgHubTitle.TextXAlignment = Enum.TextXAlignment.Left
